@@ -1,0 +1,5 @@
+com\mashreqbank\pages\ContactUsPageActions.class
+com\masherqbank\base\testBase.class
+com\mashreqbank\pages\HomePageActions.class
+com\mashreqbank\pages\CommonActions.class
+com\masherqbank\utility\TestUtil.class
